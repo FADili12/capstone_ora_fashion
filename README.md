@@ -1,0 +1,1 @@
+# capstone_ora_fashion
